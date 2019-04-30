@@ -1,2 +1,0 @@
-# ReactShoppingCart
-Created with CodeSandbox
